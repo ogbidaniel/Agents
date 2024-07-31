@@ -1,4 +1,3 @@
-```markdown
 # Google Calendar Automation
 
 This repository contains a Python-based application for automating Google Calendar tasks such as adding events and scheduling reminders. The application integrates with the OpenAI API to enable natural language commands for seamless interaction.
